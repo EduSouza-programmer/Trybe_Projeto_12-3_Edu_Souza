@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trybe_Projeto_12-3_Edu_Souza/static/css/main.5d58c8a2.chunk.css",
+    "main.js": "/Trybe_Projeto_12-3_Edu_Souza/static/js/main.4f12a6ed.chunk.js",
+    "main.js.map": "/Trybe_Projeto_12-3_Edu_Souza/static/js/main.4f12a6ed.chunk.js.map",
+    "runtime-main.js": "/Trybe_Projeto_12-3_Edu_Souza/static/js/runtime-main.6c8eec96.js",
+    "runtime-main.js.map": "/Trybe_Projeto_12-3_Edu_Souza/static/js/runtime-main.6c8eec96.js.map",
+    "static/js/2.b748dce3.chunk.js": "/Trybe_Projeto_12-3_Edu_Souza/static/js/2.b748dce3.chunk.js",
+    "static/js/2.b748dce3.chunk.js.map": "/Trybe_Projeto_12-3_Edu_Souza/static/js/2.b748dce3.chunk.js.map",
+    "index.html": "/Trybe_Projeto_12-3_Edu_Souza/index.html",
+    "precache-manifest.8092becd6b8e58fcd8528ac45bc9b059.js": "/Trybe_Projeto_12-3_Edu_Souza/precache-manifest.8092becd6b8e58fcd8528ac45bc9b059.js",
+    "service-worker.js": "/Trybe_Projeto_12-3_Edu_Souza/service-worker.js",
+    "static/css/main.5d58c8a2.chunk.css.map": "/Trybe_Projeto_12-3_Edu_Souza/static/css/main.5d58c8a2.chunk.css.map",
+    "static/js/2.b748dce3.chunk.js.LICENSE.txt": "/Trybe_Projeto_12-3_Edu_Souza/static/js/2.b748dce3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c8eec96.js",
+    "static/js/2.b748dce3.chunk.js",
+    "static/css/main.5d58c8a2.chunk.css",
+    "static/js/main.4f12a6ed.chunk.js"
+  ]
+}
